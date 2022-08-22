@@ -1,1 +1,2 @@
-# Two-player-coin-game
+There is an array of coins with different worth. Two players playing this game can pick a coin from either of the left or right end. The player with maximum sum will win. Both players are optimally playing the game. If player one wins the game print PLAYER 1 WINS else if player 2 wins print PLAYER 2 WINS if they both have equal sum at the end, print DRAW.
+To solve this problem, we will use Dynamic programming so that optimal solution is achieved.
